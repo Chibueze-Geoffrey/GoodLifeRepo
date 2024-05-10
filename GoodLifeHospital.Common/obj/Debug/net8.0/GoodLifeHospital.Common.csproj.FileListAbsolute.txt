@@ -1,0 +1,11 @@
+C:\C#_Projects\GoodLifeHospital.Common\bin\Debug\net8.0\GoodLifeHospital.Common.deps.json
+C:\C#_Projects\GoodLifeHospital.Common\bin\Debug\net8.0\GoodLifeHospital.Common.dll
+C:\C#_Projects\GoodLifeHospital.Common\bin\Debug\net8.0\GoodLifeHospital.Common.pdb
+C:\C#_Projects\GoodLifeHospital.Common\obj\Debug\net8.0\GoodLifeHospital.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Projects\GoodLifeHospital.Common\obj\Debug\net8.0\GoodLifeHospital.Common.AssemblyInfoInputs.cache
+C:\C#_Projects\GoodLifeHospital.Common\obj\Debug\net8.0\GoodLifeHospital.Common.AssemblyInfo.cs
+C:\C#_Projects\GoodLifeHospital.Common\obj\Debug\net8.0\GoodLifeHospital.Common.csproj.CoreCompileInputs.cache
+C:\C#_Projects\GoodLifeHospital.Common\obj\Debug\net8.0\GoodLifeHospital.Common.dll
+C:\C#_Projects\GoodLifeHospital.Common\obj\Debug\net8.0\refint\GoodLifeHospital.Common.dll
+C:\C#_Projects\GoodLifeHospital.Common\obj\Debug\net8.0\GoodLifeHospital.Common.pdb
+C:\C#_Projects\GoodLifeHospital.Common\obj\Debug\net8.0\ref\GoodLifeHospital.Common.dll

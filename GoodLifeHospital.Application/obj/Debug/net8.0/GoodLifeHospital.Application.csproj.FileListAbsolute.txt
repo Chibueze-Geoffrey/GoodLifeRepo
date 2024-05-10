@@ -1,0 +1,17 @@
+C:\C#_Projects\GoodLifeHospital.Application\bin\Debug\net8.0\GoodLifeHospital.Application.deps.json
+C:\C#_Projects\GoodLifeHospital.Application\bin\Debug\net8.0\GoodLifeHospital.Application.dll
+C:\C#_Projects\GoodLifeHospital.Application\bin\Debug\net8.0\GoodLifeHospital.Application.pdb
+C:\C#_Projects\GoodLifeHospital.Application\bin\Debug\net8.0\GoodLifeHospital.Common.dll
+C:\C#_Projects\GoodLifeHospital.Application\bin\Debug\net8.0\GoodLifeHospital.Domain.dll
+C:\C#_Projects\GoodLifeHospital.Application\bin\Debug\net8.0\GoodLifeHospital.Common.pdb
+C:\C#_Projects\GoodLifeHospital.Application\bin\Debug\net8.0\GoodLifeHospital.Domain.pdb
+C:\C#_Projects\GoodLifeHospital.Application\obj\Debug\net8.0\GoodLifeHospital.Application.csproj.AssemblyReference.cache
+C:\C#_Projects\GoodLifeHospital.Application\obj\Debug\net8.0\GoodLifeHospital.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Projects\GoodLifeHospital.Application\obj\Debug\net8.0\GoodLifeHospital.Application.AssemblyInfoInputs.cache
+C:\C#_Projects\GoodLifeHospital.Application\obj\Debug\net8.0\GoodLifeHospital.Application.AssemblyInfo.cs
+C:\C#_Projects\GoodLifeHospital.Application\obj\Debug\net8.0\GoodLifeHospital.Application.csproj.CoreCompileInputs.cache
+C:\C#_Projects\GoodLifeHospital.Application\obj\Debug\net8.0\GoodLifeHospital.Application.csproj.CopyComplete
+C:\C#_Projects\GoodLifeHospital.Application\obj\Debug\net8.0\GoodLifeHospital.Application.dll
+C:\C#_Projects\GoodLifeHospital.Application\obj\Debug\net8.0\refint\GoodLifeHospital.Application.dll
+C:\C#_Projects\GoodLifeHospital.Application\obj\Debug\net8.0\GoodLifeHospital.Application.pdb
+C:\C#_Projects\GoodLifeHospital.Application\obj\Debug\net8.0\ref\GoodLifeHospital.Application.dll
